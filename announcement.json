@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "title": "خوش آمدید",
+  "message": "از نرم افزار نمونه برداری ISO 2859 استفاده می کنید.",
+  "type": "popup",
+  "buttonText": "بستن",
+  "version": 1
+}
