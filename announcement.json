@@ -1,8 +1,22 @@
 {
-  "enabled": true,
-  "title": "خوش آمدید",
-  "message": "از نرم افزار نمونه برداری ISO 2859 استفاده می کنید.",
-  "type": "popup",
-  "buttonText": "بستن",
-  "version": 1
+  "appVersion": "1.0.0",
+  "forceUpdate": false,
+
+  "popup": {
+    "enabled": true,
+    "title": "پیام مدیر سیستم",
+    "message": "به نرم افزار ISO 2859 خوش آمدید."
+  },
+
+  "banner": {
+    "enabled": true,
+    "imageUrl": "https://raw.githubusercontent.com/mehransoft/iso2859-announcements/main/media/banner1.jpg",
+    "link": "https://www.linkedin.com/in/mehran-pourdada-912679174/"
+  },
+
+  "video": {
+    "enabled": false,
+    "title": "آصفحه لینکدین من",
+    "videoUrl": ""
+  }
 }
