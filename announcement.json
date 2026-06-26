@@ -5,7 +5,7 @@
   "popup": {
     "enabled": true,
     "title": "پیام مدیر سیستم",
-    "message": "به نرم افزار ISO 2859 خوش آمدید."
+    "message": "از صفحه لینکدین ما دیدن کنید"
   },
 
   "banner": {
@@ -16,7 +16,7 @@
 
   "video": {
     "enabled": false,
-    "title": "آصفحه لینکدین من",
+    "title": "صفحه لینکدین من",
     "videoUrl": ""
   }
 }
